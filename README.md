@@ -1,4 +1,5 @@
-# page-rank
+# page-rank in pyspark
+
 Simple page Rank:
 File name is hardcoded as pageRankInput.txt So while running, you would have to keep the filename pageRankInput.txt in the same directory.
 Matrix1 key is node1,value is the outline
